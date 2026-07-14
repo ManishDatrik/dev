@@ -83,3 +83,4 @@ DEVBOD-job.gbrjob
 ---
 
 This project was built for learning and improving my PCB design skills using KiCad.
+https://github.com/ManishDatrik/dev.git
